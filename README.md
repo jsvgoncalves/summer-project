@@ -6,7 +6,8 @@ _#1 30/06 - 04/07_
     * Install Invenio [check]
     * Search for tools [check]
     * Start curating
-    * Experiment with invenio and bibupload 
+    * Experiment with invenio and bibupload
+    * UI/UX Drafts [check]
 
 
 _#2 07/07 - 11/07_
@@ -22,7 +23,7 @@ _#3 14/07 - 18/07_
 
 _#4 21/07 - 25/07_
 
-    * 
+    * Implementation
 
 _#5 28/07 - 01/08_
 
